@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.deps.json
+/Users/apple/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.json
+/Users/apple/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.dll
+/Users/apple/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.pdb
+/Users/apple/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfo.cs
+/Users/apple/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.dll
+/Users/apple/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.pdb
